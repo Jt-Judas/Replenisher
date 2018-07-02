@@ -1,0 +1,17 @@
+.centerContent {
+	text-align: center;
+	color: green;
+}
+
+.centerText{
+	text-align: center;
+}
+
+.topBar{
+	backgorund-color:#007DC6;
+}
+
+.nextBar{
+	height: 30px;
+	backgorund-color:#FFC220;
+}
